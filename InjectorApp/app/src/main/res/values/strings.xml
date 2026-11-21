@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Sanket FF Injector</string>
+    <string name="app_name_short">FF Injector</string>
+    <string name="inject">Inject</string>
+    <string name="stop">Stop</string>
+    <string name="check_root">Check Root</string>
+    <string name="check_process">Check Process</string>
+    <string name="auto_inject">Auto Inject</string>
+    <string name="status_ready">Ready to Inject</string>
+    <string name="injecting">Injecting...</string>
+    <string name="injected">Injected Successfully!</string>
+    <string name="failed">Injection Failed</string>
+    <string name="stopped">Stopped</string>
+    <string name="root_required">Root access required!</string>
+    <string name="process_not_found">Process not found</string>
+    <string name="process_found">Process found</string>
+    <string name="injected_success">Injected Successfully!</string>
+    <string name="injection_failed">Injection Failed</string>
+    <string name="root_granted">Root access granted</string>
+    <string name="root_denied">Root access denied</string>
+    <string name="process_found_msg">Process found: PID %d</string>
+    <string name="process_not_found">Process not found</string>
+    <string name="injection_started">Injection started...</string>
+    <string name="injection_success">Injection successful!</string>
+    <string name="injection_failed">Injection failed</string>
+    <string name="injection_stopped">Injection stopped</string>
+    <string name="auto_inject_enabled">Auto-inject enabled</string>
+    string name="auto_inject_disabled">Auto-inject disabled</string>
+</resources>
